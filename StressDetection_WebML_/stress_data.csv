@@ -1,0 +1,11 @@
+heart_rate,temperature,activity,sleep_hours,screen_time,stress
+65,36.5,Walking,8,2,Low
+72,36.8,Walking,7,3,Low
+78,37.0,Standing,6,4,Medium
+85,37.5,Sitting,5,5,Medium
+90,38.2,Sitting,4,6,High
+95,39.0,Standing,3,8,High
+101,40.0,Sitting,3,10,High
+110,42.0,Sitting,2,15,High
+70,36.6,Sleeping,8,1,Low
+80,37.2,Walking,6,4,Low
